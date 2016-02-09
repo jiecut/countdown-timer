@@ -5,7 +5,7 @@ name:                countdown-timer
 version:             0.1.0.0
 synopsis:            A simple countdown timer, using win32 api.
 -- description:         
-homepage:            zot
+homepage:            https://github.com/jiecut/countdown-timer
 license:             GPL-2
 license-file:        LICENSE
 author:              jie
