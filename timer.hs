@@ -1,12 +1,12 @@
--- Compile with the option `-optl-mwindows' To hide the command prompt
+-- Compile with the option `-optl-mwindows' to hide the command prompt
 -- Win32全般についてはここがわかりやすい http://wisdom.sakura.ne.jp/system/winapi/win32/index.html
 
 {-
 Usage:
 Enter     - starts counting down
 Esc       - stop counting down
-Left      - adds 1 minutes
-Right     - subtracts 1 minutes
+Left      - adds 1 minute
+Right     - subtracts 1 minute
 Up        - adds 10 minutes
 Down      - subtracts 10 minutes
 Page Up   - adds 1 hour
